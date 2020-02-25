@@ -1,0 +1,9 @@
+1  192.168.20.1 (192.168.20.1)  1.547 ms  1.084 ms  0.851 ms
+2  192.168.2.9 (192.168.2.9)  0.269 ms  0.217 ms  0.215 ms
+3  217-67-187-49.in-addr.mastertelecom.ru (217.67.187.49)  3.228 ms  2.849 ms  2.350 ms
+4  mail.neoresurs.ru (217.67.176.130)  0.434 ms  0.708 ms  0.395 ms
+5  217-67-176-205.in-addr.mastertelecom.ru (217.67.176.205)  1.496 ms  2.823 ms  1.491 ms
+
+The first found device (line 1 output) is the next one after local network on the way to outside.
+Device name:		192.168.20.1
+Device IP address	192.168.20.1
